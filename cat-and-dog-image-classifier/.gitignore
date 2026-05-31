@@ -1,0 +1,7 @@
+cats_and_dogs/
+cats_and_dogs.zip
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.h5
+*.keras

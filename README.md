@@ -4,4 +4,5 @@ Solutions for the freeCodeCamp Machine Learning with Python certification projec
 
 ## Projects
 
-- Rock Paper Scissors — complete, tests passing
+- Rock Paper Scissors — complete, tests passing, submitted to freeCodeCamp
+- Cat and Dog Image Classifier — complete locally, 94% test-set accuracy
