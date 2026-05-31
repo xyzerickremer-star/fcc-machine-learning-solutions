@@ -3,5 +3,6 @@ cats_and_dogs.zip
 .venv/
 __pycache__/
 .ipynb_checkpoints/
+__MACOSX/
 *.h5
 *.keras
