@@ -11,3 +11,7 @@ python3 -m unittest -v
 ```
 
 Latest local result: all 4 FCC tests passing.
+
+## Transfer
+
+See [`AUDITAGENT_TRANSFER.md`](AUDITAGENT_TRANSFER.md) for the connection to AuditAgent and the bachelor thesis framing.
