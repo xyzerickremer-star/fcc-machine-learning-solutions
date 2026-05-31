@@ -1,0 +1,10 @@
+# Downloaded FCC data and generated training artifacts
+/data/
+/models/
+*.keras
+*.h5
+*.pkl
+*.joblib
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/

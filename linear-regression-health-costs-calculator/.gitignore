@@ -1,0 +1,15 @@
+# Downloaded dataset cache
+insurance.csv
+
+# Generated model/checkpoint artifacts
+*.h5
+*.keras
+saved_model/
+checkpoints/
+logs/
+
+# Python/runtime artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
